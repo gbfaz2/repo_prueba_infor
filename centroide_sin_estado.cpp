@@ -32,6 +32,7 @@ class calculador_centroide {
     // std::vector<punto_t> nube_puntos; 
     // He comentado esto porque si guardamos el vector aquí, la clase tendría MEMORIA
     // y dejaría de ser "sin estado". Aquí no guardamos nada, solo procesamos.
+    // vamos que entonces sería estructurada?
     
 public:
     /**
