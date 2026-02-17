@@ -101,5 +101,6 @@ int main(void) {
     printf("El Centroide es: ");
     cent.print(resultado);
 
+    // kk
     return 0;
 } //prueba para github
